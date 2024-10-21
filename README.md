@@ -9,7 +9,7 @@
 <div align="center">
 
   
- 🌱 I’m currently learning Testing, Moleculer
+ 🌱 I’m currently learning Patterns, Artitechtures
 
  </div>
 
