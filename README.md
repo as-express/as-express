@@ -3,7 +3,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,nodejs,express,nest,laravel,redis,postgres,mongo,rabbitmq" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,redis,postgres,mongo,rabbitmq,docker" /><br>
 </div>
 
 
