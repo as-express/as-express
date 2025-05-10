@@ -1,10 +1,11 @@
 
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,redis,postgres,mongo,rabbitmq,docker" /><br>
-</div>
+
+
+
+- ⚙️ Technologies and tools: <br />  <br />
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,laravel,nodejs,express,nestjs,redis,rabbitmq,docker,git)](https://github.com/azizdevfull)
+- ⚙️ Databases: <br />  <br />
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://github.com/azizdevfull)
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
