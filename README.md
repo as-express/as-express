@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Backend Developer with **1+ years of experience**
-- 🔁 Specializing in **Microservices**, **Real-time apps**, and **System Monitoring**
+- 🔁 Specializing in **Microservices**, **Real-time apps**, and **Scalability**
 - ⚙️ Building scalable systems using **NestJS**, **PostgreSQL**, **Redis**, **Docker**, and **RabbitMQ**
 - 📦 Passionate about performance optimization, clean code, and developer efficiency
 - 🤖 Created monitoring **Telegram bots** for real-time system alerts
