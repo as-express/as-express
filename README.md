@@ -12,7 +12,7 @@
 
 - 💼 Backend Developer with **1+ years of experience**
 - 🔁 Specializing in **Microservices**, **Real-time apps**, and **Scalability**
-- ⚙️ Building scalable systems using **NestJS**, **PostgreSQL**, **Redis**, **Docker**, and **RabbitMQ**
+- ⚙️ Building scalable systems using **NestJS**, **Laravel**, **PostgreSQL**, **Redis**, **Docker**, and **RabbitMQ**
 - 📦 Passionate about performance optimization, clean code, and developer efficiency
 - 🤖 Created monitoring **Telegram bots** for real-time system alerts
 - 📚 Always learning and following latest backend trends
@@ -47,6 +47,7 @@
 #### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Ngnix](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-black?style=flat-square&logo=gitlab)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 
