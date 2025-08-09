@@ -1,20 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Aset Ergashev</h1>
-<h3 align="center">🚀 Backend Developer from Tashkent, Uzbekistan 🇺🇿</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8FEC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js;1%2B+Years+Experience+in+Backend+Development;Loves+building+scalable+systems+and+APIs;Open+to+collaboration+%F0%9F%92%E2%9C%94"
-  alt="Typing SVG" />
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
-- 💼 Backend Developer with **1+ years of experience**
 - 🔁 Specializing in **Microservices**, **Real-time apps**, and **Scalability**
 - ⚙️ Building scalable systems using **NestJS**, **Laravel**, **PostgreSQL**, **Redis**, **Docker**, and **RabbitMQ**
 - 📦 Passionate about performance optimization, clean code, and developer efficiency
-- 🤖 Created monitoring **Telegram bots** for real-time system alerts
 - 📚 Always learning and following latest backend trends
 
 ---
