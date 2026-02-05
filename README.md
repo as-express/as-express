@@ -4,5 +4,5 @@
 </div>
 
 <h3 align="center">
-Leveling up backend skills — for peaceful nights
+Leveling up backend skills for peaceful nights
 </h3>
