@@ -6,6 +6,3 @@
 <h3 align="center">
 Leveling up backend skills for peaceful nights
 </h3>
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-express&)"></div>
